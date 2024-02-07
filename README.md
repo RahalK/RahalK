@@ -1,1 +1,1 @@
-![](RahalK/RahalK/github_banner.png)
+![](https://github.com/RahalK/RahalK/blob/main/github_banner.png)
